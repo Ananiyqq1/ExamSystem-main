@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ExamSystem
+build_property.RootNamespace = ExamSystem
+build_property.ProjectDir = /home/nemo/Desktop/ExamSystem-main/ExamSystem/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/nemo/Desktop/ExamSystem-main/ExamSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Account/ViewAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9WaWV3QWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Admin/CreateAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ3JlYXRlQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Admin/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Admin/RemoveUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUmVtb3ZlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examinee/AddExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZWUvQWRkRXhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examinee/Documents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZWUvRG9jdW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examinee/ExamDesc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZWUvRXhhbURlc2MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examinee/ExamPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZWUvRXhhbVBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examinee/Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZWUvUmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examinee/User_Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZWUvVXNlcl9Ib21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examinee/_FilteredDataPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZWUvX0ZpbHRlcmVkRGF0YVBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examiner/Exam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZXIvRXhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examiner/Overview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZXIvT3ZlcnZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examiner/Reference.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZXIvUmVmZXJlbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examiner/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZXIvUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Examiner/Subject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhhbWluZXIvU3ViamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Home/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nemo/Desktop/ExamSystem-main/ExamSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8h3a5dy4p5
